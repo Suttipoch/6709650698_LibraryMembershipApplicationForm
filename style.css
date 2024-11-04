@@ -19,3 +19,8 @@ form {
 div {
     margin-bottom: 30px;
 }
+
+label {
+    font-weight: bold;
+    color: #323131;
+}
